@@ -2,21 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-  <loc>https://controlandefficiency.sa/home</loc>
-      <lastmod>2026-03-31</lastmod>
+  <loc>https://ads.controle.sa/home</loc>
+      <lastmod>2026-04-04</lastmod>
   <priority>1.00</priority>
-</url>
-
-<url>
-  <loc>https://controlandefficiency.sa/privacy</loc>
-  <lastmod>2026-03-31</lastmod>
-  <priority>0.80</priority>
-</url>
-
-<url>
-  <loc>https://controlandefficiency.sa/terms</loc>
-  <lastmod>2026-03-31</lastmod>
-  <priority>0.80</priority>
 </url>
 
 </urlset>
