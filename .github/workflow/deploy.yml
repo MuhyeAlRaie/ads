@@ -24,7 +24,7 @@ jobs:
         # CRITICAL: This is the folder where your website lives on Bluehost
         server-dir: /public_html/ads/
         
-        # Don't upload the internal github files to your server
+        
         exclude: |
           .git*
           .github*
